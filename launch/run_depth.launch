@@ -1,0 +1,9 @@
+<launch>
+    <rosparam command="load" file="$(find depth_online)/config/depth.yaml" />
+    <node 
+        pkg="depth_online"
+        type="depthonline_node"
+        name="depth_online_node"
+        output="screen"
+    />
+</launch>
