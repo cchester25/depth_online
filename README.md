@@ -9,11 +9,6 @@ Depth Anything TensorRT Based On Jetson Orin ROS1
 </div>
 
 
-<p align="center">
-  <img src="assets/davis_dolphins_result.gif" height="225px" width="720px" />
-</p>
-
-
 ## 🚀 Quick Start
 
 #### C++
